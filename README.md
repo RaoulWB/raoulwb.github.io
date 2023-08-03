@@ -1,4 +1,4 @@
 # raoulwb.github.io
-rafi.zone
+https://rafi.zone
 
 Personal github pages for RaoulWB
