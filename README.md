@@ -1,4 +1,10 @@
 # raoulwb.github.io
-https://rafi.zone
+Someday I'll turn this into a real website and rebrand my online presence.
 
-Personal github pages for RaoulWB
+For now though, this may suffice.
+
+
+
+Game: https://playfe.ch/
+
+Discord: @RaoulWB
