@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Commenti per Rafi Zone	</title>
-	<atom:link href="https://rafi.zone/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rafi.zone/</link>
+	Commenti a: Ciao mondo!	</title>
+	<atom:link href="https://rafi.zone/2024/02/13/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rafi.zone/2024/02/13/ciao-mondo/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Feb 2024 18:14:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>
-		Commenti su Ciao mondo! di Un commentatore di WordPress		</title>
+		Di: Un commentatore di WordPress		</title>
 		<link>https://rafi.zone/2024/02/13/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
