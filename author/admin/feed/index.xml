@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; Rafi Zone</title>
-	<atom:link href="https://rafi.zone/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rafi.zone/</link>
+	<atom:link href="/https://rafi.zone//author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://rafi.zone//</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Feb 2024 18:14:59 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Ciao mondo!</title>
-		<link>https://rafi.zone/2024/02/13/ciao-mondo/</link>
-					<comments>https://rafi.zone/2024/02/13/ciao-mondo/#comments</comments>
+		<link>/https://rafi.zone//2024/02/13/ciao-mondo/</link>
+					<comments>/https://rafi.zone//2024/02/13/ciao-mondo/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 18:14:59 +0000</pubDate>
 				<category><![CDATA[Senza categoria]]></category>
-		<guid isPermaLink="false">https://rafi.zone/?p=1</guid>
+		<guid isPermaLink="false">/https://rafi.zone//?p=1</guid>
 
 					<description><![CDATA[Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!]]></description>
 										<content:encoded><![CDATA[
 <p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rafi.zone/2024/02/13/ciao-mondo/feed/</wfw:commentRss>
+					<wfw:commentRss>/https://rafi.zone//2024/02/13/ciao-mondo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

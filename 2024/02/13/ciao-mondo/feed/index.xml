@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti a: Ciao mondo!	</title>
-	<atom:link href="https://rafi.zone/2024/02/13/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rafi.zone/2024/02/13/ciao-mondo/</link>
+	<atom:link href="/https://rafi.zone//2024/02/13/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://rafi.zone//2024/02/13/ciao-mondo/</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Feb 2024 18:14:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Di: Un commentatore di WordPress		</title>
-		<link>https://rafi.zone/2024/02/13/ciao-mondo/#comment-1</link>
+		<link>/https://rafi.zone//2024/02/13/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Tue, 13 Feb 2024 18:14:59 +0000</pubDate>
-		<guid isPermaLink="false">https://rafi.zone/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/https://rafi.zone//?p=1#comment-1</guid>
 
 					<description><![CDATA[Ciao, questo è un commento.
 Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
